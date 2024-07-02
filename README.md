@@ -6,8 +6,7 @@ Doing Code Kata for practicing Test-Driven Development (TDD).
 
 ## What is Test-Driven Development (TDD) ?
 
-Test-Driven Development is the principle that developer should give the concern on doing test
-while develop project and refactor to improve code all the time.
+"Test-driven development (TDD) is a way of writing code that involves writing an automated unit-level test case that fails, then writing just enough code to make the test pass, then refactoring both the test code and the production code, then repeating with another new test case." ([TDD's Wikipedia](https://en.wikipedia.org/wiki/Test-driven_development))
 
 ## What is Code Kata ?
 
