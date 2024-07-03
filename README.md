@@ -17,3 +17,13 @@ Doing Code Kata for practicing Test-Driven Development (TDD).
 - [CodeKata](http://codekata.com/)
 - [Codewars](https://www.codewars.com/)
 - [Leetcode](https://leetcode.com/)
+
+## Kata List
+
+### Codewars
+
+- [Kata01: DNA to RNA Conversion](https://www.codewars.com/kata/5556282156230d0e5e000089)
+  - [ ] Typescript
+  - [ ] Golang
+  - [ ] Python
+  - [ ] Ruby
